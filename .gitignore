@@ -1,7 +1,0 @@
-bin/
-dist/
-build/
-*.o
-*.dmg
-shots/*.bmp
-.DS_Store
